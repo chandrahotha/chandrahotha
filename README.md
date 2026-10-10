@@ -43,17 +43,6 @@ Self-contained project and procurement platform. Quotes, budgets and approvals i
 </td>
 <td width="33%" valign="top">
 
-### 🟠 Procure Sherpa
-Fully free procurement academy, not a demo and not a trial. Curriculum, 19 calculators, SOPs and checklists. Your data never leaves your device.
-
-<p align="center">
-  <a href="https://procuresherpa.vercel.app"><img src="https://img.shields.io/badge/Open-fully_free-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Open, fully free"></a>
-  <a href="https://github.com/chandrahotha/Procure-Sherpa_Portal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
 ### 🟢 Vantor
 Open-source procurement operating system covering suppliers, RFQs, contracts and spend.
 
@@ -63,8 +52,6 @@ Open-source procurement operating system covering suppliers, RFQs, contracts and
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 ### 🩷 Deal IQ
@@ -76,6 +63,8 @@ Quote intelligence for services, hardware and combined quotes, with exact money 
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 ### 🟣 Procura
@@ -101,9 +90,43 @@ Quick-commerce basket comparison, normalized to landed cost.
 
 ---
 
+<h2 align="center">🎓 Free Academies</h2>
+
+<p align="center"><em>Free to use, in full active development.</em></p>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🟠 Procure Sherpa
+Fully free procurement academy, not a demo and not a trial. Curriculum, 19 calculators, SOPs and checklists. Your data never leaves your device.
+
+<p align="center">
+  <a href="https://procuresherpa.vercel.app"><img src="https://img.shields.io/badge/Open-fully_free-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Open, fully free"></a>
+  <a href="https://github.com/chandrahotha/Procure-Sherpa_Portal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### 🛫 Project 360
+Free PM academy with a project flight simulator. PMBOK, earned value management and sprint practice.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎗️ HCM Studio
+Free academy for Oracle Fusion Cloud HCM. Evidence-backed coverage of Time and Labor and Recruiting.
+
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">🧰 In the Workshop</h2>
 
-<p align="center"><em>Designed end-to-end. Most remain private, a mix of proprietary and free.</em></p>
+<p align="center"><em>Proprietary builds, designed end-to-end, most in active development.</em></p>
 
 <table>
 <tr>
@@ -125,18 +148,12 @@ Modular ERP with nine apps, 104 modules and one data model.
 </td>
 <td width="33%" valign="top">
 
-### 🪟 WinKit
-Free open-source Windows maintenance and repair center: cleanup, diagnostics, disk analysis.
+### 🤖 Recon
+Local-first agentic software engineering platform.
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-
-### 🤖 Recon
-Local-first agentic software engineering platform, in active development.
-
-</td>
 <td width="33%" valign="top">
 
 ### 🧪 TraceX
@@ -149,12 +166,10 @@ Automated code quality testing with a web cockpit.
 In-house security reasoning platform. Evidence-first, airgap-ready.
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 ### 🧠 Loco
-Living Operational Cognitive Organism. A durable, security-bounded 24/7 AI workforce runtime, in active development.
+Living Operational Cognitive Organism. A durable, security-bounded 24/7 AI workforce runtime.
 
 <p align="center">
   <a href="https://github.com/chandrahotha/Loco-AI-Worker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -171,7 +186,7 @@ Also in private development: platforms for education, healthcare, hospitality, H
 
 ---
 
-<h2 align="center">🛡️ Free Tools on npm</h2>
+<h2 align="center">🛠️ Free Tools</h2>
 
 <div align="center">
 
@@ -188,6 +203,12 @@ Also in private development: platforms for education, healthcare, hospitality, H
 **OpsPilot**: a Rust project command center for your terminal. Scan any project and see its stack, services, ports, database and Docker, each finding with its evidence.
 
 [![Try OpsPilot on npm](https://img.shields.io/badge/Try_OpsPilot-on_npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@ops_pilot/cli) [![OpsPilot on GitHub](https://img.shields.io/badge/OpsPilot-on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chandrahotha/OpsPilot)
+
+</div>
+
+<div align="center">
+
+**WinKit**: free open-source Windows maintenance and repair center. Cleanup, diagnostics, disk analysis.
 
 </div>
 
