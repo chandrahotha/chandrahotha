@@ -85,6 +85,12 @@ Quick-commerce basket comparison, normalized to landed cost.
 </p>
 
 </td>
+<td width="33%" valign="top">
+
+### 🏨 InnGenie
+Hotel and hospitality management. Bookings, front-desk operations and guest services.
+
+</td>
 </tr>
 </table>
 
@@ -109,7 +115,7 @@ Fully free procurement academy, not a demo and not a trial. Curriculum, 19 calcu
 </td>
 <td width="33%" valign="top">
 
-### 🛫 Project 360
+### 🛫 Project Management 360
 Free PM academy with a project flight simulator. PMBOK, earned value management and sprint practice.
 
 </td>
@@ -181,7 +187,7 @@ Living Operational Cognitive Organism. A durable, security-bounded 24/7 AI workf
 
 <p align="center">
 Plus a private procurement suite: RFQ analysis, supplier scorecards, should-cost modeling, contract review.<br>
-Also in private development: platforms for education, healthcare, hospitality, HR, construction, fleet logistics and 3D digital twins.
+Also in private development: platforms for education, healthcare, HR, construction, fleet logistics and 3D digital twins.
 </p>
 
 ---
