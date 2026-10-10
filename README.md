@@ -35,7 +35,10 @@
 ### 🔷 Vertex
 Self-contained project and procurement platform. Quotes, budgets and approvals in one purchase flow, start to finish.
 
-[![Live demo](https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://vertexdemo.vercel.app/) [![Product page](https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products/vertex)
+<p align="center">
+  <a href="https://vertexdemo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
+  <a href="https://digitracks.vercel.app/products/vertex"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+</p>
 
 </td>
 <td width="33%" valign="top">
@@ -43,7 +46,10 @@ Self-contained project and procurement platform. Quotes, budgets and approvals i
 ### 🟠 Procure Sherpa
 Fully free procurement academy, not a demo and not a trial. Curriculum, 19 calculators, SOPs and checklists. Your data never leaves your device.
 
-[![Open, fully free](https://img.shields.io/badge/Open-fully_free-10B981?style=flat-square&logo=vercel&logoColor=white)](https://procuresherpa.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chandrahotha/Procure-Sherpa_Portal)
+<p align="center">
+  <a href="https://procuresherpa.vercel.app"><img src="https://img.shields.io/badge/Open-fully_free-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Open, fully free"></a>
+  <a href="https://github.com/chandrahotha/Procure-Sherpa_Portal"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 </td>
 <td width="33%" valign="top">
@@ -51,7 +57,10 @@ Fully free procurement academy, not a demo and not a trial. Curriculum, 19 calcu
 ### 🟢 Vantor
 Open-source procurement operating system covering suppliers, RFQs, contracts and spend.
 
-[![Live demo](https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://vantor-os.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chandrahotha/Vantor)
+<p align="center">
+  <a href="https://vantor-os.vercel.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
+  <a href="https://github.com/chandrahotha/Vantor"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 </td>
 </tr>
@@ -61,7 +70,10 @@ Open-source procurement operating system covering suppliers, RFQs, contracts and
 ### 🩷 Deal IQ
 Quote intelligence for services, hardware and combined quotes, with exact money math.
 
-[![Live demo](https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://quotesimulator.vercel.app) [![Product page](https://img.shields.io/badge/Product_page-EC4899?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products/quote-simulator)
+<p align="center">
+  <a href="https://quotesimulator.vercel.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
+  <a href="https://digitracks.vercel.app/products/quote-simulator"><img src="https://img.shields.io/badge/Product_page-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+</p>
 
 </td>
 <td width="33%" valign="top">
@@ -69,7 +81,9 @@ Quote intelligence for services, hardware and combined quotes, with exact money 
 ### 🟣 Procura
 Source-to-pay inside UNIFY. Purchasing and supplier management, production ready.
 
-[![Product page](https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products/unify/procura)
+<p align="center">
+  <a href="https://digitracks.vercel.app/products/unify/procura"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+</p>
 
 </td>
 <td width="33%" valign="top">
@@ -77,7 +91,9 @@ Source-to-pay inside UNIFY. Purchasing and supplier management, production ready
 ### 🟡 Quickee
 Quick-commerce basket comparison, normalized to landed cost.
 
-<img src="https://img.shields.io/badge/Coming_soon-6B7280?style=flat-square" alt="Quickee coming soon">
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming_soon-6B7280?style=flat-square" alt="Quickee coming soon">
+</p>
 
 </td>
 </tr>
@@ -102,7 +118,9 @@ Business data migration. Any spreadsheet into any target system, validated end-t
 ### 🏗️ UNIFY
 Modular ERP with nine apps, 104 modules and one data model.
 
-[![Product page](https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products/unify)
+<p align="center">
+  <a href="https://digitracks.vercel.app/products/unify"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+</p>
 
 </td>
 <td width="33%" valign="top">
@@ -135,8 +153,12 @@ In-house security reasoning platform. Evidence-first, airgap-ready.
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 Loco AI Workforce
-AI workforce platform, in early development.
+### 🧠 Loco
+Living Operational Cognitive Organism. A durable, security-bounded 24/7 AI workforce runtime, in active development.
+
+<p align="center">
+  <a href="https://github.com/chandrahotha/Loco-AI-Worker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 </td>
 </tr>
