@@ -26,7 +26,7 @@
 
 <h2 align="center">🎯 Live Demos</h2>
 
-<p align="center"><em>Open any tool. No login, no install, no ceremony.</em></p>
+<p align="center"><em>Open any tool. No login, no install, no sign-up.</em></p>
 
 <table>
 <tr>
@@ -87,8 +87,13 @@ Quick-commerce basket comparison, normalized to landed cost.
 </td>
 <td width="33%" valign="top">
 
-### 🏨 InnGenie
-Hotel and hospitality management. Bookings, front-desk operations and guest services.
+### 🏫 Vedik School ERP
+School management for schools, colleges and universities. Admissions, fees, attendance and exams.
+
+<p align="center">
+  <a href="https://vedik-demo.netlify.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
+  <a href="https://digitracks.vercel.app/products/vedik"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+</p>
 
 </td>
 </tr>
@@ -187,7 +192,7 @@ Living Operational Cognitive Organism. A durable, security-bounded 24/7 AI workf
 
 <p align="center">
 Plus a private procurement suite: RFQ analysis, supplier scorecards, should-cost modeling, contract review.<br>
-Also in private development: platforms for education, healthcare, HR, construction, fleet logistics and 3D digital twins.
+Also in private development: platforms for healthcare, hospitality, HR, construction, fleet logistics and 3D digital twins.
 </p>
 
 ---
