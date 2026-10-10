@@ -102,7 +102,7 @@ Business data migration. Any spreadsheet into any target system, validated end-t
 ### 🏗️ UNIFY
 Modular ERP with nine apps, 104 modules and one data model.
 
-[![Request demo](https://img.shields.io/badge/Request_demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products)
+[![Product page](https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products/unify)
 
 </td>
 <td width="33%" valign="top">
@@ -127,8 +127,16 @@ Automated code quality testing with a web cockpit.
 </td>
 <td width="33%" valign="top">
 
-### 🛰️ Agent-Orion
-Software assurance agent covering security, quality, dependencies and release readiness.
+### 🛰️ Orion Hunter
+In-house security reasoning platform. Evidence-first, airgap-ready.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Loco AI Workforce
+AI workforce platform, in early development.
 
 </td>
 </tr>
