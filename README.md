@@ -16,9 +16,9 @@
 
 <div align="center">
 
-**22 years in supply chain. I don't wait for good software. I build it.**
+**22 years in supply chain: strategic sourcing, vendor management, procurement transformation.**
 
-**20+ products designed end-to-end, from buying tools to ERP. Live demos below.**
+**I don't wait for good software. I build it. 20+ products designed end-to-end, from buying tools to ERP. Live demos below.**
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <h2 align="center">🎯 Live Demos</h2>
 
-<p align="center"><em>Open any tool. No login, no install, no sign-up.</em></p>
+<p align="center"><em>Procurement tools, school ERP and quote engines. No login, no install, no sign-up.</em></p>
 
 <table>
 <tr>
