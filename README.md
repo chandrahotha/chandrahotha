@@ -6,7 +6,7 @@
 
 *Buying control without spreadsheet chaos.*
 
-[![See buying tools that work](https://img.shields.io/badge/See_buying_tools_that_work-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://digitracks.vercel.app/products)
+[![See buying tools that work](https://img.shields.io/badge/See_buying_tools_that_work-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://digitracks.net/products)
 
 </div>
 
@@ -37,7 +37,7 @@ Self-contained project and procurement platform. Quotes, budgets and approvals i
 
 <p align="center">
   <a href="https://vertexdemo.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
-  <a href="https://digitracks.vercel.app/products/vertex"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+  <a href="https://digitracks.net/products/vertex"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
 </p>
 
 </td>
@@ -59,7 +59,7 @@ Quote intelligence for services, hardware and combined quotes, with exact money 
 
 <p align="center">
   <a href="https://quotesimulator.vercel.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
-  <a href="https://digitracks.vercel.app/products/quote-simulator"><img src="https://img.shields.io/badge/Product_page-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+  <a href="https://digitracks.net/products/quote-simulator"><img src="https://img.shields.io/badge/Product_page-EC4899?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
 </p>
 
 </td>
@@ -71,7 +71,7 @@ Quote intelligence for services, hardware and combined quotes, with exact money 
 Source-to-pay inside UNIFY. Purchasing and supplier management, production ready.
 
 <p align="center">
-  <a href="https://digitracks.vercel.app/products/unify/procura"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+  <a href="https://digitracks.net/products/unify/procura"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
 </p>
 
 </td>
@@ -92,7 +92,7 @@ School management for schools, colleges and universities. Admissions, fees, atte
 
 <p align="center">
   <a href="https://vedik-demo.netlify.app"><img src="https://img.shields.io/badge/Live_demo-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a>
-  <a href="https://digitracks.vercel.app/products/vedik"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+  <a href="https://digitracks.net/products/vedik"><img src="https://img.shields.io/badge/Product_page-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
 </p>
 
 </td>
@@ -153,7 +153,7 @@ Business data migration. Any spreadsheet into any target system, validated end-t
 Modular ERP with nine apps, 104 modules and one data model.
 
 <p align="center">
-  <a href="https://digitracks.vercel.app/products/unify"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
+  <a href="https://digitracks.net/products/unify"><img src="https://img.shields.io/badge/Product_page-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Product page"></a>
 </p>
 
 </td>
