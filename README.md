@@ -229,6 +229,6 @@ Also in private development: platforms for healthcare, hospitality, HR, construc
 
 <div align="center">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lscm) [![DigiTracks, the brand](https://img.shields.io/badge/DigiTracks-the_brand-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://digitracks.vercel.app) [![Sponsor learning](https://img.shields.io/badge/Sponsor_learning-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/chandrahotha)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lscm) [![DigiTracks, the brand](https://img.shields.io/badge/DigiTracks-the_brand-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://digitracks.net) [![Sponsor learning](https://img.shields.io/badge/Sponsor_learning-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/chandrahotha)
 
 </div>
